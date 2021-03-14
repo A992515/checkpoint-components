@@ -1,6 +1,6 @@
 import React from 'react'
 
-const FullName = () => {
+function FullName () {
     return (
         <div>
             <h3>Name: Ahlem Ahmed</h3>
